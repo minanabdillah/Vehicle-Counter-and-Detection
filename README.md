@@ -3,6 +3,7 @@ Note : Mungkin ada beberapa file yang tidak bisa saya masukkan, sebagai gantinya
 
 Tools:
 Python 3.x
+
 Jupyter Notebook / Google Colab
 
 ## Import Library
