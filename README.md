@@ -460,3 +460,8 @@ print(f"Total Buses: {bus_count}")
 Kode ini serupa dengan yang sebelumnya, tetapi dengan tambahan fungsionalitas untuk menyimpan video hasil pengolahan
 
 Kode ini melakukan deteksi, pelacakan, penghitungan kendaraan (mobil dan bus) pada sebuah video, kemudian menampilkan hasilnya secara visual dan menyimpannya ke dalam file video output yang baru dengan nama output_toll_gate.mp4. Hasil penghitungan juga dicetak di akhir untuk memberi tahu total jumlah mobil dan bus yang melintasi garis selama durasi video.
+
+
+## Result
+Short Video = https://github.com/minanabdillah/Vehicle-Counter-and-Detection/blob/main/video/output_toll_gate%20(short).mp4
+Full Video = 
