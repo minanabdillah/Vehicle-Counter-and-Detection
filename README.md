@@ -42,7 +42,7 @@ points = [(8, 160), (70, 175), (135, 190), (205, 205), (279, 221), (340, 235), (
 ```
 
 ### Path 
-Berisi path - path yang diperlukan seperti yolo dan video, untuk points adalah koordinat dari line gate yang akan dibuat
+Berisi path - path yang diperlukan seperti yolo dan video, untuk points adalah koordinat dari line gate yang akan dibuat. Link YOLO 4 Weights = yolov4.weights
 
 ## Load Video
 
@@ -350,7 +350,7 @@ while video.isOpened():
     plt.show()
 
 video.release()
-
+```
 
 ### Count
 has_crossed_line(centroid, gate_y): Fungsi ini mengecek apakah sentroid (titik tengah) objek sudah melewati garis virtual (didefinisikan oleh gate_y). Jika sentroid berada di bawah garis tersebut (lebih besar dari gate_y), maka dianggap objek tersebut sudah melewati garis.
@@ -456,10 +456,6 @@ out.release()
 print(f"Total Cars: {car_count}")
 print(f"Total Buses: {bus_count}")
 ```
-
-    Total Cars: 7
-    Total Buses: 1
-    
 
 Kode ini serupa dengan yang sebelumnya, tetapi dengan tambahan fungsionalitas untuk menyimpan video hasil pengolahan
 
