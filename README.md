@@ -464,4 +464,5 @@ Kode ini melakukan deteksi, pelacakan, penghitungan kendaraan (mobil dan bus) pa
 
 ## Result
 Short Video = https://github.com/minanabdillah/Vehicle-Counter-and-Detection/blob/main/video/output_toll_gate%20(short).mp4
-Full Video = 
+
+Full Video = https://github.com/minanabdillah/Vehicle-Counter-and-Detection/blob/main/video/output_toll_gate.mp4
