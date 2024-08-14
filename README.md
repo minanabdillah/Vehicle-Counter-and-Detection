@@ -42,7 +42,7 @@ points = [(8, 160), (70, 175), (135, 190), (205, 205), (279, 221), (340, 235), (
 ```
 
 ### Path 
-Berisi path - path yang diperlukan seperti yolo dan video, untuk points adalah koordinat dari line gate yang akan dibuat. Link YOLO 4 Weights = yolov4.weights
+Berisi path - path yang diperlukan seperti yolo dan video, untuk points adalah koordinat dari line gate yang akan dibuat. Link YOLO 4 Weights = [yolov4.weights](https://github.com/AlexeyAB/darknet/releases/download/yolov4/yolov4.weights)
 
 ## Load Video
 
